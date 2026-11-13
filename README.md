@@ -3,6 +3,11 @@
 A Streamlit app for tracking job applications by company, role, application
 date, and status.
 
+Features include company search, status filtering and updates, confirmed
+deletion, CSV exports, and upcoming interview dates. Existing databases are
+migrated automatically to add the interview-date column without removing
+application records.
+
 ## Setup
 
 1. Create and activate a virtual environment.
